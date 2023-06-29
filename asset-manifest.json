@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Netfilx-clone/static/css/main.342ad7c7.css",
+    "main.js": "/Netfilx-clone/static/js/main.838a1c8d.js",
+    "index.html": "/Netfilx-clone/index.html",
+    "main.342ad7c7.css.map": "/Netfilx-clone/static/css/main.342ad7c7.css.map",
+    "main.838a1c8d.js.map": "/Netfilx-clone/static/js/main.838a1c8d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.342ad7c7.css",
+    "static/js/main.838a1c8d.js"
+  ]
+}
