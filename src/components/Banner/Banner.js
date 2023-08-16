@@ -28,7 +28,7 @@ const Banner = () => {
         <br />
         <h6 className='banner-des'>{movie ? movie.overview :""}</h6>
         <br />
-        <button className='button-2' ><h6 className='play'>Play</h6></button>
+        <button className='button-2' ><h6 className='play'>PLAY</h6></button>
 
 
         </div>
