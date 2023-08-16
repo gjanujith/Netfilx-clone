@@ -9,7 +9,7 @@ const Footer = () => {
       <p>Help Centre</p>
       <p>Terms of Use</p>
       <p>Privacy</p>
-
+      <p>feedback</p>
     
     </div>
 
